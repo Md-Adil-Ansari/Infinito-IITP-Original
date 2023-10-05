@@ -119,7 +119,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p>Copyright &copy; 2022 Infinito</p>
+            <p>Copyright &copy; 2023 Infinito</p>
         </div>
     </footer>
 
