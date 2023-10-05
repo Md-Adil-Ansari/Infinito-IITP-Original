@@ -396,6 +396,24 @@ include "connect.php";
                     </div>
                 </div>
             </div>
+            <div class="container_team">
+                <div class="card">
+                    <div class="imgBx">
+                        <img src="./images/team/20230519_210926 - Amritansh Arya.jpg">
+                    </div>
+                    <div class="contentBx">
+                        <h2>Amritansh Arya </h2>
+                        <p>Hospitality</p>
+                        <div class="links">
+                        
+                        <div class="socialLinks">
+                            <a href="https://www.linkedin.com/in/amritansh-arya-27391a255"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
+                            <a href="mailto: amritansh_2101me08@iitp.ac.in "target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- <div class="container_team">
                 <div class="card">
                     <div class="imgBx">
@@ -741,24 +759,7 @@ include "connect.php";
                     </div>
                 </div>
             </div>
-            <div class="container_team">
-                <div class="card">
-                    <div class="imgBx">
-                        <img src="./images/team/IMG_20230918_121623 - Vaibhav Poonia.jpg">
-                    </div>
-                    <div class="contentBx">
-                        <h2>Vaibhav Poonia</h2>
-                        <p>Creatives & Design</p>
-                        <div class="links">
-                        
-                            <div class="socialLinks">
-                                <a href="https://www.linkedin.com/in/vaibhav-kumar-051684223"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
-                                <a href="mailto:vaibhavpoonia08@gmail.com"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
 
         </div> 
         
@@ -777,6 +778,24 @@ include "connect.php";
                             <div class="socialLinks">
                                 <a href="https://www.linkedin.com/in/vikram-aditya-76a93a247/"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
                                 <a href="mailto:vikramaditya113311@gmail.com"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container_team">
+                <div class="card">
+                    <div class="imgBx">
+                        <img src="./images/team/IMG_20230918_121623 - Vaibhav Poonia.jpg">
+                    </div>
+                    <div class="contentBx">
+                        <h2>Vaibhav Poonia</h2>
+                        <p>Creatives & Design</p>
+                        <div class="links">
+                        
+                            <div class="socialLinks">
+                                <a href="https://www.linkedin.com/in/vaibhav-kumar-051684223"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
+                                <a href="mailto:vaibhavpoonia08@gmail.com"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
                             </div>
                         </div>
                     </div>
